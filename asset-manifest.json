@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/PIAIC-bootcamp2020-assignment-6/static/css/main.eb7dac53.chunk.css",
+    "main.js": "/PIAIC-bootcamp2020-assignment-6/static/js/main.16b3f132.chunk.js",
+    "main.js.map": "/PIAIC-bootcamp2020-assignment-6/static/js/main.16b3f132.chunk.js.map",
+    "runtime-main.js": "/PIAIC-bootcamp2020-assignment-6/static/js/runtime-main.2db3d3f7.js",
+    "runtime-main.js.map": "/PIAIC-bootcamp2020-assignment-6/static/js/runtime-main.2db3d3f7.js.map",
+    "static/js/2.ad34efb2.chunk.js": "/PIAIC-bootcamp2020-assignment-6/static/js/2.ad34efb2.chunk.js",
+    "static/js/2.ad34efb2.chunk.js.map": "/PIAIC-bootcamp2020-assignment-6/static/js/2.ad34efb2.chunk.js.map",
+    "index.html": "/PIAIC-bootcamp2020-assignment-6/index.html",
+    "static/css/main.eb7dac53.chunk.css.map": "/PIAIC-bootcamp2020-assignment-6/static/css/main.eb7dac53.chunk.css.map",
+    "static/js/2.ad34efb2.chunk.js.LICENSE.txt": "/PIAIC-bootcamp2020-assignment-6/static/js/2.ad34efb2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2db3d3f7.js",
+    "static/js/2.ad34efb2.chunk.js",
+    "static/css/main.eb7dac53.chunk.css",
+    "static/js/main.16b3f132.chunk.js"
+  ]
+}
